@@ -8,10 +8,21 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-icons": "^1.0.0-alpha5",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "firebase": "^7.16.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.3.4",
+    "vue-uuid": "^2.0.2",
+    "vuex": "^3.5.1",
+    "vuex-easy-firestore": "^1.35.14",
+    "vuexfire": "^3.2.3"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-service": "~4.4.0",
