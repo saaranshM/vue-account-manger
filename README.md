@@ -2,7 +2,7 @@
 
 ### Try app 
 
-Try the app at [link](vue-crud-app-1d717.firebaseapp.com)
+Try the app at [link](https://vue-crud-app-1d717.firebaseapp.com/login)
 
 ## Project setup
 ```
