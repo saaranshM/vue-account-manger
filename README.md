@@ -1,6 +1,6 @@
 # vue-crud
 
-## Made a simple accounting app built using Vuejs, Vuex and Vuefire.
+Made a simple accounting app built using Vuejs, Vuex and Vuefire.
 
 ### Try app 
 
